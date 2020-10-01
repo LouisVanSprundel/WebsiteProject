@@ -1,3 +1,4 @@
-setings to send emails:
+  very informative
+  setings to send emails:
  - add your email adrees and password in the web.xml
  - apply this: https://www.arclab.com/en/kb/email/how-to-enable-imap-pop3-smtp-gmail-account.html
